@@ -1,4 +1,4 @@
-# ipkgen
+# .Ipk Generator
 ## Description
 This is sh shell script for creating **.ipk** (opkg) packages
 ## Usage
